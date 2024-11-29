@@ -2,3 +2,6 @@ site_name: Sophisticated Traders
 site_url: https://docs.sophisticated-traders.com/
 theme:
   name: material
+  palette:
+    primary: black
+  logo: assets/st-icon.svg

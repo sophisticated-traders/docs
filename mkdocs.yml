@@ -1,8 +1,17 @@
 site_name: Sophisticated Traders
 site_url: https://docs.sophisticated-traders.com/
+copyright: Copyright &copy; 2024 - Sophisticated Traders
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/sph_traders
+      name: Sophisticated Traders on Twitter
+
 theme:
   name: material
+  language: fr
   palette:
     primary: black
+
   logo: assets/st-icon.svg
   favicon: assets/st-icon.svg

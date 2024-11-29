@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Sophisticated Traders
+site_url: https://docs.sophisticated-traders.com/
+theme:
+  name: material
